@@ -9,6 +9,7 @@ public class MycoolappApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(MycoolappApplication.class, args);
 		System.err.println("this is a test");
+		System.out.println("another edit");
 	}
 
 }
