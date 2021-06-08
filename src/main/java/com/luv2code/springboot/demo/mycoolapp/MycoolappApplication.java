@@ -12,4 +12,8 @@ public class MycoolappApplication {
 		System.out.println("another edit");
 	}
 
+	public void testMethod() {
+		System.out.println("test");
+	}
+
 }
