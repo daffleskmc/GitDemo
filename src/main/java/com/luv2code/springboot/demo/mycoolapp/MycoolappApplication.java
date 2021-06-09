@@ -15,5 +15,9 @@ public class MycoolappApplication {
 	public void testMethod() {
 		System.out.println("test");
 	}
+	
+	public void testMethod2() {
+		System.out.println("test2 - new");
+	}
 
 }
